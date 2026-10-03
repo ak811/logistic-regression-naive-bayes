@@ -1,4 +1,4 @@
-# ML Classifiers: Logistic Regression (GD/IRLS) + Naive Bayes (Gaussian/Bernoulli)
+## Multiclass logistic regression (GD/IRLS) and Gaussian/Bernoulli Naive Bayes from scratch
 
 A machine-learning project implementing:
 
